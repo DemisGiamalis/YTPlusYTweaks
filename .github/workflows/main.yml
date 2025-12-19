@@ -53,7 +53,7 @@ on:
         default: false
 
       enable_yougroupsettings:
-        description: "Group Tweak Settings"
+        description: "Group Tweak Settings (YouGroupSettings)"
         type: boolean
         required: true
         default: true
