@@ -43,7 +43,7 @@ If you plan on testing, adding other tweaks, making changes, or building very fr
     <li>Select "Build YTPlusYTweaks".</li>
     <li>Click "Run workflow".</li>
     <li>Select bundled tweaks.</li>
-    <li>Prepare a decrypted .ipa file <em>(we cannot provide this due to legal reasons)</em>, then upload it to a file provider (e.g., https://litterbox.catbox.moe, or Dropbox is recommended). Paste the URL of the decrypted IPA file in the provided field.
+    <li>Prepare a decrypted .ipa file <em>(we cannot provide this due to legal reasons)</em>, then upload it to a file provider (e.g., https://litterbox.catbox.moe, or Dropbox is recommended. If you use Dropbox, change the end of the URL from `dl=0` to `dl=1`). Paste the URL of the decrypted IPA file in the provided field.
     <strong>NOTE:</strong> Make sure to provide a direct download link to the file, not a link to a webpage. Otherwise, the process will fail.</li>
     <li>Click "Run workflow".</li>
     <td><img src="Resources/scr15.jpg" alt="Screenshot 15" /></td>
@@ -177,6 +177,7 @@ Examples:
 - [FAQ](#faq)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Tweak Integration Details](#tweak-integration-details)
+- [Credits](#credits)
 
 ## Screenshots
 <table>
@@ -303,3 +304,18 @@ Fill out an [issue form](https://github.com/fosterbarnes/YTPlusYTweaks/issues) w
   <p>Gonerino is a tweak developed by <a href="https://github.com/castdrian">castdrian</a> that lets you block certain content from your home feed.</p>
   <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's GitHub repository</a>.</p>
 </details>
+
+## Credits
+Thank you to everyone that made this project possible! This project would not exist without the existing tools made by these developers. I really appreciate your work :)
+
+[dayanch96](https://github.com/dayanch96) - YTLite
+
+[PoomSmart](https://github.com/PoomSmart) - YouPiP, YTUHD, Return YouTube Dislikes, YouQuality, YTABConfig, YTIcons, YouGroupSettings
+
+[therealFoxster](https://github.com/therealFoxster) - DontEatMyContent
+
+[castdrian](https://github.com/castdrian/Gonerino) - Gonerino
+
+[theos](https://github.com/theos) - theos, SDKs
+
+[Tonwalter888](https://github.com/Tonwalter888/) - SDKs
